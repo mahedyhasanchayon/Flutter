@@ -1,0 +1,1 @@
+This flutter app made for practice purpose
