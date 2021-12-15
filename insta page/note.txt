@@ -1,1 +1,2 @@
-This flutter app made for practice purpose
+This flutter app made for practice purpose.
+--------------THANK YOU-------------
